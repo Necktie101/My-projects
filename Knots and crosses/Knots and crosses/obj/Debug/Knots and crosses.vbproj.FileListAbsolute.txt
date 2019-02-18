@@ -1,0 +1,10 @@
+E:\Vb Stuff\Knots and crosses\Knots and crosses\bin\Debug\Knots and crosses.exe.config
+E:\Vb Stuff\Knots and crosses\Knots and crosses\bin\Debug\Knots and crosses.exe
+E:\Vb Stuff\Knots and crosses\Knots and crosses\bin\Debug\Knots and crosses.pdb
+E:\Vb Stuff\Knots and crosses\Knots and crosses\bin\Debug\Knots and crosses.xml
+E:\Vb Stuff\Knots and crosses\Knots and crosses\obj\Debug\Knots and crosses.vbprojResolveAssemblyReference.cache
+E:\Vb Stuff\Knots and crosses\Knots and crosses\obj\Debug\Knots_and_crosses.Resources.resources
+E:\Vb Stuff\Knots and crosses\Knots and crosses\obj\Debug\Knots and crosses.vbproj.GenerateResource.Cache
+E:\Vb Stuff\Knots and crosses\Knots and crosses\obj\Debug\Knots and crosses.exe
+E:\Vb Stuff\Knots and crosses\Knots and crosses\obj\Debug\Knots and crosses.xml
+E:\Vb Stuff\Knots and crosses\Knots and crosses\obj\Debug\Knots and crosses.pdb

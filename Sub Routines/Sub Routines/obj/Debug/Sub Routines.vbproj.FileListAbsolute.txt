@@ -1,0 +1,10 @@
+E:\Vb Stuff\Sub Routines\Sub Routines\bin\Debug\Sub Routines.exe.config
+E:\Vb Stuff\Sub Routines\Sub Routines\bin\Debug\Sub Routines.exe
+E:\Vb Stuff\Sub Routines\Sub Routines\bin\Debug\Sub Routines.pdb
+E:\Vb Stuff\Sub Routines\Sub Routines\bin\Debug\Sub Routines.xml
+E:\Vb Stuff\Sub Routines\Sub Routines\obj\Debug\Sub Routines.vbprojResolveAssemblyReference.cache
+E:\Vb Stuff\Sub Routines\Sub Routines\obj\Debug\Sub_Routines.Resources.resources
+E:\Vb Stuff\Sub Routines\Sub Routines\obj\Debug\Sub Routines.vbproj.GenerateResource.Cache
+E:\Vb Stuff\Sub Routines\Sub Routines\obj\Debug\Sub Routines.exe
+E:\Vb Stuff\Sub Routines\Sub Routines\obj\Debug\Sub Routines.xml
+E:\Vb Stuff\Sub Routines\Sub Routines\obj\Debug\Sub Routines.pdb

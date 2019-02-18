@@ -1,0 +1,10 @@
+E:\Vb Stuff\Dica Arrays\Dica Arrays\bin\Debug\Dica Arrays.exe.config
+E:\Vb Stuff\Dica Arrays\Dica Arrays\obj\Debug\Dica Arrays.vbprojResolveAssemblyReference.cache
+E:\Vb Stuff\Dica Arrays\Dica Arrays\obj\Debug\Dica_Arrays.Resources.resources
+E:\Vb Stuff\Dica Arrays\Dica Arrays\obj\Debug\Dica Arrays.vbproj.GenerateResource.Cache
+E:\Vb Stuff\Dica Arrays\Dica Arrays\obj\Debug\Dica Arrays.xml
+E:\Vb Stuff\Dica Arrays\Dica Arrays\bin\Debug\Dica Arrays.exe
+E:\Vb Stuff\Dica Arrays\Dica Arrays\bin\Debug\Dica Arrays.pdb
+E:\Vb Stuff\Dica Arrays\Dica Arrays\bin\Debug\Dica Arrays.xml
+E:\Vb Stuff\Dica Arrays\Dica Arrays\obj\Debug\Dica Arrays.exe
+E:\Vb Stuff\Dica Arrays\Dica Arrays\obj\Debug\Dica Arrays.pdb

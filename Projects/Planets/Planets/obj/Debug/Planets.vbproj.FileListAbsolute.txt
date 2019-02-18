@@ -1,0 +1,10 @@
+c:\users\dc\documents\visual studio 2015\Projects\Planets\Planets\bin\Debug\Planets.exe.config
+c:\users\dc\documents\visual studio 2015\Projects\Planets\Planets\bin\Debug\Planets.exe
+c:\users\dc\documents\visual studio 2015\Projects\Planets\Planets\bin\Debug\Planets.pdb
+c:\users\dc\documents\visual studio 2015\Projects\Planets\Planets\bin\Debug\Planets.xml
+c:\users\dc\documents\visual studio 2015\Projects\Planets\Planets\obj\Debug\Planets.vbprojResolveAssemblyReference.cache
+c:\users\dc\documents\visual studio 2015\Projects\Planets\Planets\obj\Debug\Planets.Resources.resources
+c:\users\dc\documents\visual studio 2015\Projects\Planets\Planets\obj\Debug\Planets.vbproj.GenerateResource.Cache
+c:\users\dc\documents\visual studio 2015\Projects\Planets\Planets\obj\Debug\Planets.exe
+c:\users\dc\documents\visual studio 2015\Projects\Planets\Planets\obj\Debug\Planets.xml
+c:\users\dc\documents\visual studio 2015\Projects\Planets\Planets\obj\Debug\Planets.pdb

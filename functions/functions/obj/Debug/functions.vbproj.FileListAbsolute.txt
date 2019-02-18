@@ -1,0 +1,10 @@
+E:\Vb Stuff\functions\functions\bin\Debug\functions.exe.config
+E:\Vb Stuff\functions\functions\bin\Debug\functions.exe
+E:\Vb Stuff\functions\functions\bin\Debug\functions.pdb
+E:\Vb Stuff\functions\functions\bin\Debug\functions.xml
+E:\Vb Stuff\functions\functions\obj\Debug\functions.vbprojResolveAssemblyReference.cache
+E:\Vb Stuff\functions\functions\obj\Debug\functions.Resources.resources
+E:\Vb Stuff\functions\functions\obj\Debug\functions.vbproj.GenerateResource.Cache
+E:\Vb Stuff\functions\functions\obj\Debug\functions.exe
+E:\Vb Stuff\functions\functions\obj\Debug\functions.xml
+E:\Vb Stuff\functions\functions\obj\Debug\functions.pdb

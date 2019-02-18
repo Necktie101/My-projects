@@ -1,0 +1,10 @@
+E:\Vb Stuff\Card Sub\Card Sub\bin\Debug\Card Sub.exe.config
+E:\Vb Stuff\Card Sub\Card Sub\obj\Debug\Card Sub.vbprojResolveAssemblyReference.cache
+E:\Vb Stuff\Card Sub\Card Sub\obj\Debug\Card_Sub.Resources.resources
+E:\Vb Stuff\Card Sub\Card Sub\obj\Debug\Card Sub.vbproj.GenerateResource.Cache
+E:\Vb Stuff\Card Sub\Card Sub\bin\Debug\Card Sub.exe
+E:\Vb Stuff\Card Sub\Card Sub\bin\Debug\Card Sub.pdb
+E:\Vb Stuff\Card Sub\Card Sub\bin\Debug\Card Sub.xml
+E:\Vb Stuff\Card Sub\Card Sub\obj\Debug\Card Sub.exe
+E:\Vb Stuff\Card Sub\Card Sub\obj\Debug\Card Sub.xml
+E:\Vb Stuff\Card Sub\Card Sub\obj\Debug\Card Sub.pdb

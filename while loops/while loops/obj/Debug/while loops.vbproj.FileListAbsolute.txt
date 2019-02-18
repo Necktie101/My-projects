@@ -1,0 +1,10 @@
+E:\Vb Stuff\while loops\while loops\bin\Debug\while loops.exe.config
+E:\Vb Stuff\while loops\while loops\bin\Debug\while loops.exe
+E:\Vb Stuff\while loops\while loops\bin\Debug\while loops.pdb
+E:\Vb Stuff\while loops\while loops\bin\Debug\while loops.xml
+E:\Vb Stuff\while loops\while loops\obj\Debug\while loops.vbprojResolveAssemblyReference.cache
+E:\Vb Stuff\while loops\while loops\obj\Debug\while_loops.Resources.resources
+E:\Vb Stuff\while loops\while loops\obj\Debug\while loops.vbproj.GenerateResource.Cache
+E:\Vb Stuff\while loops\while loops\obj\Debug\while loops.exe
+E:\Vb Stuff\while loops\while loops\obj\Debug\while loops.xml
+E:\Vb Stuff\while loops\while loops\obj\Debug\while loops.pdb

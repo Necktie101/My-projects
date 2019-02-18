@@ -1,0 +1,10 @@
+E:\Vb Stuff\tic tac toe\tic tac toe\bin\Debug\tic tac toe.exe.config
+E:\Vb Stuff\tic tac toe\tic tac toe\bin\Debug\tic tac toe.exe
+E:\Vb Stuff\tic tac toe\tic tac toe\bin\Debug\tic tac toe.pdb
+E:\Vb Stuff\tic tac toe\tic tac toe\bin\Debug\tic tac toe.xml
+E:\Vb Stuff\tic tac toe\tic tac toe\obj\Debug\tic tac toe.vbprojResolveAssemblyReference.cache
+E:\Vb Stuff\tic tac toe\tic tac toe\obj\Debug\tic_tac_toe.Resources.resources
+E:\Vb Stuff\tic tac toe\tic tac toe\obj\Debug\tic tac toe.vbproj.GenerateResource.Cache
+E:\Vb Stuff\tic tac toe\tic tac toe\obj\Debug\tic tac toe.exe
+E:\Vb Stuff\tic tac toe\tic tac toe\obj\Debug\tic tac toe.xml
+E:\Vb Stuff\tic tac toe\tic tac toe\obj\Debug\tic tac toe.pdb

@@ -1,0 +1,9 @@
+C:\Users\DC\Documents\Visual Studio 2015\Projects\Calculator(Dan Sitoianu)\Calculator(Dan Sitoianu)\bin\Release\Calculator(Dan Sitoianu).exe.config
+C:\Users\DC\Documents\Visual Studio 2015\Projects\Calculator(Dan Sitoianu)\Calculator(Dan Sitoianu)\bin\Release\Calculator(Dan Sitoianu).exe
+C:\Users\DC\Documents\Visual Studio 2015\Projects\Calculator(Dan Sitoianu)\Calculator(Dan Sitoianu)\bin\Release\Calculator(Dan Sitoianu).pdb
+C:\Users\DC\Documents\Visual Studio 2015\Projects\Calculator(Dan Sitoianu)\Calculator(Dan Sitoianu)\bin\Release\Calculator(Dan Sitoianu).xml
+C:\Users\DC\Documents\Visual Studio 2015\Projects\Calculator(Dan Sitoianu)\Calculator(Dan Sitoianu)\obj\Release\Calculator_Dan_Sitoianu_.Resources.resources
+C:\Users\DC\Documents\Visual Studio 2015\Projects\Calculator(Dan Sitoianu)\Calculator(Dan Sitoianu)\obj\Release\Calculator(Dan Sitoianu).vbproj.GenerateResource.Cache
+C:\Users\DC\Documents\Visual Studio 2015\Projects\Calculator(Dan Sitoianu)\Calculator(Dan Sitoianu)\obj\Release\Calculator(Dan Sitoianu).exe
+C:\Users\DC\Documents\Visual Studio 2015\Projects\Calculator(Dan Sitoianu)\Calculator(Dan Sitoianu)\obj\Release\Calculator(Dan Sitoianu).xml
+C:\Users\DC\Documents\Visual Studio 2015\Projects\Calculator(Dan Sitoianu)\Calculator(Dan Sitoianu)\obj\Release\Calculator(Dan Sitoianu).pdb

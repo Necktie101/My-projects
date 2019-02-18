@@ -1,0 +1,10 @@
+c:\users\dc\documents\visual studio 2015\Projects\Lift\Lift\bin\Debug\Lift.exe.config
+c:\users\dc\documents\visual studio 2015\Projects\Lift\Lift\bin\Debug\Lift.exe
+c:\users\dc\documents\visual studio 2015\Projects\Lift\Lift\bin\Debug\Lift.pdb
+c:\users\dc\documents\visual studio 2015\Projects\Lift\Lift\bin\Debug\Lift.xml
+c:\users\dc\documents\visual studio 2015\Projects\Lift\Lift\obj\Debug\Lift.vbprojResolveAssemblyReference.cache
+c:\users\dc\documents\visual studio 2015\Projects\Lift\Lift\obj\Debug\Lift.Resources.resources
+c:\users\dc\documents\visual studio 2015\Projects\Lift\Lift\obj\Debug\Lift.vbproj.GenerateResource.Cache
+c:\users\dc\documents\visual studio 2015\Projects\Lift\Lift\obj\Debug\Lift.exe
+c:\users\dc\documents\visual studio 2015\Projects\Lift\Lift\obj\Debug\Lift.xml
+c:\users\dc\documents\visual studio 2015\Projects\Lift\Lift\obj\Debug\Lift.pdb
